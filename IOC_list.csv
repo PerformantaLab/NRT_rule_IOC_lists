@@ -1,4 +1,4 @@
-DateAdded,ValidUntil,IOC, Type, ThreatName
+DateAdded,ValidUntil,IOC,Type,ThreatName
 31/10/2024,02/08/2025,d819173a8babdf625c2774bbf17ed710,MD5,gozi_ifsb trojan
 31/10/2024,02/08/2025,80bd15267756343f028cbe77afe810068b0e6a36ce32f52be63f620ef5b5ed89,SHA256,TickyPyxie
 31/10/2024,02/08/2025,www.kamalak.at,domain-name,Ursnif via LOLbins
